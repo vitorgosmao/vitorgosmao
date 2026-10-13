@@ -1,4 +1,4 @@
-# Olá, eu sou Vitor Gosmão 👋
+# Olá, eu sou Vitor Costa Gosmão 👋
 
 ### Analista de BI | Engenharia de Dados | SQL, Python, dbt & Airflow
 
